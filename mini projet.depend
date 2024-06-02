@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657545 source:c:\users\dell\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571661587 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657987 source:d:\kais nouveau\kais 2020_2021\monastir\semestre2\cpi1\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1648812633 source:c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\graphic-20220401t113000z-001\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1651164394 source:c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\mini projet magasin\main (2).c
+	<tchar.h>
+	"myconio.h"
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"liste.h"
+
+1651139938 source:c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\mini projet magasin\liste.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"liste.h"
+	"math.h"
+
+1651080192 c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\mini projet magasin\liste.h
+
+1135741918 c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\mini projet magasin\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
+
+1651179773 source:c:\users\elkam\desktop\1st year cpi isimm\mini projet\c\mini projet magasin\main.c
+	<tchar.h>
+	"myconio.h"
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"liste.h"
+
