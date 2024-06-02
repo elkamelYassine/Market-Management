@@ -1,0 +1,3 @@
+C:/Users/elkam/Desktop/1st year CPI ISIMM/MINI PROJET/C/mini projet magasin/cmake-build-debug/CMakeFiles/mini_projet_magasin.dir
+C:/Users/elkam/Desktop/1st year CPI ISIMM/MINI PROJET/C/mini projet magasin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elkam/Desktop/1st year CPI ISIMM/MINI PROJET/C/mini projet magasin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

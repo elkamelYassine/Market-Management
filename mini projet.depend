@@ -65,3 +65,13 @@
 	<time.h>
 	"liste.h"
 
+1717348985 source:c:\users\elkam\documents\c project\market-management\liste.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"liste.h"
+	"math.h"
+
+1717348985 c:\users\elkam\documents\c project\market-management\liste.h
+
