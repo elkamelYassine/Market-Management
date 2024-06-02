@@ -65,7 +65,7 @@
 	<time.h>
 	"liste.h"
 
-1717348985 source:c:\users\elkam\documents\c project\market-management\liste.c
+1651139938 source:c:\users\elkam\documents\c project\market-management\liste.c
 	<stdio.h>
 	<string.h>
 	<stdlib.h>
@@ -73,5 +73,23 @@
 	"liste.h"
 	"math.h"
 
-1717348985 c:\users\elkam\documents\c project\market-management\liste.h
+1651080192 c:\users\elkam\documents\c project\market-management\liste.h
+
+1651179773 source:c:\users\elkam\documents\c project\market-management\main.c
+	<tchar.h>
+	"myconio.h"
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"liste.h"
+
+1135741918 c:\users\elkam\documents\c project\market-management\myconio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<myconio.cpp>
 
